@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi,I'm Neri Edem
 
-<!--
-**NeriEdem/NeriEdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ABOUT ME
+I am a CyberSecurity Student at NIIT Port Harcourt,passionate about offensive and defensive cybersecurity.
+I enjoy building practical cyversecurity projects that demonstrate real-world skills in:
+- Penetration Testing
+- Log Analysis
+- Malware Analysis
+- Digital Forensics
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Governance Risk and Compliance
+  
+  ## PROJECTS
+  | Projects | Description | Repository |
+  | -------- | ----------- | ---------- |
+  | OSINT Investigation | Conducted an OSINT Investigation on a target organisation | Coming Soon |
+  | Log Analysis | Analysed IIS and Windows Event Logs to identify attacks | Coming Soon |
 
-Here are some ideas to get you started:
+## Skills
+### Operating Systems
+- Windows
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Networking
+  - TCP/IP
+  - DNS
+  - HTTP
+  - FTP
+  - SSH
+  - TELNET
+
+  ### Cybersecurity Tools
+  - Nmap
+  - Wireshark
+  - BurpSuite
+  - Splunk
+  - Snort
+  - Suricata
+  - ELK
+  - GIT
+  - GitHub
+ 
+  ## Certifications
+  - ISC2 CC (In Progress)
+  - CompTIA Security+ (In Progress)
+ 
+## Education
+- NIIT Port Harcourt: Cybersecurity Program
+
+##  Contact
+- Email: neriedem3@gmail.com
+- Linkedln:
