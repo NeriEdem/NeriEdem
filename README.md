@@ -17,6 +17,7 @@ I enjoy building practical cyversecurity projects that demonstrate real-world sk
   | -------- | ----------- | ---------- |
   | OSINT Investigation | Conducted an OSINT Investigation on a target organisation | https://github.com/NeriEdem/osint-project.git |
   | Log Analysis | Analysed IIS and Windows Event Logs to identify attacks | Coming Soon |
+  | Malware Analysis | Completed a malware analysis project | https://github.com/NeriEdem/malware-analysis.git |
 
 ## Skills
 ### Operating Systems
