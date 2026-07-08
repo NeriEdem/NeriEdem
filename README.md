@@ -15,7 +15,7 @@ I enjoy building practical cyversecurity projects that demonstrate real-world sk
   ## PROJECTS
   | Projects | Description | Repository |
   | -------- | ----------- | ---------- |
-  | OSINT Investigation | Conducted an OSINT Investigation on a target organisation | Coming Soon |
+  | OSINT Investigation | Conducted an OSINT Investigation on a target organisation | https://github.com/NeriEdem/osint-project.git |
   | Log Analysis | Analysed IIS and Windows Event Logs to identify attacks | Coming Soon |
 
 ## Skills
