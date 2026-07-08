@@ -10,7 +10,7 @@ I enjoy building practical cyversecurity projects that demonstrate real-world sk
 - OSINT
 - Threat Hunting
 - Social Engineering
-- Governance Risk and Compliance
+- Governance,Risk and Compliance
   
   ## PROJECTS
   | Projects | Description | Repository |
